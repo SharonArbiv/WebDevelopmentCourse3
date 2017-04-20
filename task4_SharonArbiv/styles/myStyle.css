@@ -1,0 +1,120 @@
+body {
+    direction: rtl;
+    background-color:#f8f8f8
+    }
+
+#container {
+    Width: 960px;
+    Margin: 0 auto;
+}
+
+#Aphotos {
+    margin-top:30px;
+    width: 230px;
+    height: 140px;
+  margin-right:70px;
+  filter: contrast(80%);
+       border-top-left-radius:10px;
+          border-top-right-radius:10px;
+}
+#Bphotos {
+    width: 230px;
+    height: 140px;
+    margin-right:50px;
+    margin-left:50px;
+      border-top-left-radius:10px;
+          border-top-right-radius:10px;
+}
+#Cphotos {
+    width: 230px;
+    height: 140px;
+           border-top-left-radius:10px;
+          border-top-right-radius:10px;
+}
+
+p1, p2, p3{
+    font-family:'Varela Round';
+    font-weight:bold;
+    font-size: 30px;
+    margin-right:140px;
+    color:#FF631F;
+
+}
+p2{
+    padding-right:50px;
+   padding-left:50px;
+}
+p4{
+    display:block;
+    font-size:45px;
+    padding-top:15px;
+    font-weight:bold;
+    font-family:'Varela Round';
+    color:#CC4700;
+    margin-right:250px;
+}
+p5{
+        font-weight:bold;
+    font-family:'Varela Round';
+    text-align:center;
+    display:block;
+    color:#bebebe;
+    font-size:17px;
+}
+span{
+     color:#7F2C00;
+}
+p6{
+            font-weight:bold;
+    font-family:'Varela Round';
+    text-align:center;
+    display:block;
+    color:#00CCC3;
+    padding-top:10px;
+    font-size:30px;
+}
+
+label{
+    margin-top:60px;
+    font-family:'Varela Round';
+}
+input[type ='submit']
+{
+ margin-right:385px;
+margin-top:20px;
+margin-bottom:20px;
+}
+input[type ='text']{
+    display:block;
+}
+#firstRow {
+    margin-right: 240px;
+}
+#secondRow{
+    float:left;
+    margin-top:-80px;
+    margin-left:240px;
+}
+span1 {
+    color: #000000;
+}
+#frame{
+    border: solid #007F7A;
+    margin-top:20px;
+    margin-right:70px;
+    margin-left:70px;
+}
+#facebook{
+    background-image:url(../images/)
+}
+#website{
+        background-image:url(../images/hit.png);
+        height:100px;
+        width:100px;
+        display:inline-block;
+        background-size:contain;
+            background-repeat: no-repeat;
+            margin-top:-80px;
+            margin-left:80px;
+            float:left
+}
